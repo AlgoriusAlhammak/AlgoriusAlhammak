@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdulhadi Alhammak (Algorius)
 
-<!--
-**AlgoriusAlhammak/AlgoriusAlhammak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student at Lebanese University (2022-2025), with experience in software development, machine learning, and web technologies. I enjoy working on innovative projects and learning new skills in the tech field. 
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
+- A portfolio website showcasing my skills and projects
+- A PHP project to strengthen my skills in PHP Laraval 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+Here are some of my recent projects:
+
+- [Housing Price Prediction](https://github.com/algorius/housing-price-prediction) - Developed a machine learning model for housing price prediction.
+- [Student Management System](https://github.com/algorius/student-management-system) - A desktop application built in Java for managing students' data.
+- [Hotel Management System](https://github.com/algorius/hotel-management-system) - Java-based system to streamline hotel operations.
+- [Java Chatbot](https://github.com/algorius/java-chatbot) - A chatbot application that provides automated responses.
+
+## 📫 How to reach me
+- [Email](abdulhadialhammak@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/abdulhadialhammak/)
+
