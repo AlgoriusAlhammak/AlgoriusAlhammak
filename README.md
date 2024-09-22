@@ -9,10 +9,10 @@ I am a Computer Science student at Lebanese University (2022-2025), with experie
 ## 🚀 Projects
 Here are some of my recent projects:
 
-- [Housing Price Prediction](https://github.com/algorius/housing-price-prediction) - Developed a machine learning model for housing price prediction.
-- [Student Management System](https://github.com/algorius/student-management-system) - A desktop application built in Java for managing students' data.
-- [Hotel Management System](https://github.com/algorius/hotel-management-system) - Java-based system to streamline hotel operations.
-- [Java Chatbot](https://github.com/algorius/java-chatbot) - A chatbot application that provides automated responses.
+- [Housing Price Prediction](https://github.com/AlgoriusAlhammak/HousingPricePrediction.git) - Developed a machine learning model for housing price prediction.
+- [Student Management System](https://github.com/AlgoriusAlhammak/Grading-System-Management.git) - A desktop application built in Java for managing students' data.
+- [Hotel Management System](https://github.com/AlgoriusAlhammak/Hotel-System-Management-.git) - Java-based system to streamline hotel operations.
+- [Java Chatbot](https://github.com/AlgoriusAlhammak/ChatBotJava.git) - A chatbot application that provides automated responses.
 
 ## 📫 How to reach me
 - [Email](abdulhadialhammak@gmail.com)
